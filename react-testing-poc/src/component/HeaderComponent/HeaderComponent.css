@@ -1,0 +1,10 @@
+.header-wrapper{
+    background-image:linear-gradient(to left, rgb(233,246,254),rgb(182,214,253)) ;
+    border-bottom: rgb(182,214,253);
+}
+.menu-items{
+    background: rgba(182,214,253,0.4) !important;
+}
+.list-item{
+    cursor:pointer;
+}
